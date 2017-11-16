@@ -23,13 +23,15 @@ for my own benefit and also that of my group members.
 ### Technology  
 Knowledge:  
 * Principles of design and implementation of distributed systems.
-* Fundamental network concepts.    
+* Fundamental network concepts.  
+  
 Skills:  
 * Include relevant technological aspects in the development of distributed systems, including:
 * Central security concepts and threats.
 * Use of virtualization
 * Use of services and programming interface for communication
 * Application of common application protocols.  
+
 Competences:  
 * Reflect on choice of infrastructure in connection with development of distributed systems.
 
