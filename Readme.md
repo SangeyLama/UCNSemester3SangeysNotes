@@ -40,7 +40,7 @@ Competences:
 * Reflect on choice of infrastructure in connection with development of distributed systems.
 
 ### Programming
- 
+Knowledge: 
  * Pretty much the same requirements as the previous semester. (OOP concepts, Data structures, patterns, etc)
  * Understand the .Net architecture and implement a distributed system (n-tier architecture)
  * Understand how to implement ADO. NET to access MS SQL Database
@@ -52,7 +52,28 @@ Competences:
  * How to build a web client (either webforms or MVC)
 
 ### System Development
+Knowledge:
+* The role of experiments as part of or a supplement to the system development method
+* The role of quality criteria in the system development process and the system's final design.
 
+Skills:
+* Model and design IT systems
+* Use a suitable software architecture
+* Document and communicate product and process – including traceability
+* Quality assure product and process
+* Use suitable design patterns
+* Involve users
+* Design situation-specific user interfaces and choose a process model and system development method
+* Work systematically on a project subject to a chosen system development method
+* Plan, assess, and regulate a project
+* Select and use suitable design patterns and components
+* Design systems that are integrated with other systems.
+
+Competences:
+* Participate competently in a development project
+* Situationally adapt a system development method to a project
+* Participate competently in a development project
+* Acquire new process models and system development methods
+* Reflect on and adapt processes and methods in practice.
 
 ## Topic 2
-
