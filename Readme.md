@@ -26,10 +26,12 @@ for my own benefit and also that of my group members.
 
 ### Technology  
 Knowledge:  
+The students should have achieved knowledge of:
 * Principles of design and implementation of distributed systems.
 * Fundamental network concepts.  
   
 Skills:  
+The students should be able to:
 * Include relevant technological aspects in the development of distributed systems, including:
 * Central security concepts and threats.
 * Use of virtualization
@@ -37,10 +39,29 @@ Skills:
 * Application of common application protocols.  
 
 Competences:  
+The students should be able to:
 * Reflect on choice of infrastructure in connection with development of distributed systems.
 
 ### Programming
-Knowledge: 
+Knowledge:  
+The students should have achieved knowledge of:
+* Integration between heterogeneous components and platforms.
+
+Skills:  
+The students should be able to:
+* use techniques to construct programs that support multiple concurrent users;
+* design and construct programs based on collaborating processes in a distributed architecture;
+* construct programs that use contemporary network technologies;
+* use design patterns for distributed software architecture;
+* develop software components; 
+* and develop web applications.
+
+Competencies:  
+The students should be able to:
+* act as professional programmers in integration projects; 
+* and acquire new skills within programming language, development tools, programming techniques and 
+program design.
+
  * Pretty much the same requirements as the previous semester. (OOP concepts, Data structures, patterns, etc)
  * Understand the .Net architecture and implement a distributed system (n-tier architecture)
  * Understand how to implement ADO. NET to access MS SQL Database
@@ -52,14 +73,16 @@ Knowledge:
  * How to build a web client (either webforms or MVC)
 
 ### System Development
-Knowledge:
+Knowledge:  
+The students should have achieved knowledge of:
 * The role of experiments as part of or a supplement to the system development method
 * The role of quality criteria in the system development process and the system's final design.
 
-Skills:
+Skills:  
+The students should be able to:
 * Model and design IT systems
 * Use a suitable software architecture
-* Document and communicate product and process – including traceability
+* Document and communicate product and process â€“ including traceability
 * Quality assure product and process
 * Use suitable design patterns
 * Involve users
@@ -69,7 +92,8 @@ Skills:
 * Select and use suitable design patterns and components
 * Design systems that are integrated with other systems.
 
-Competences:
+Competences:  
+The students should be able to:
 * Participate competently in a development project
 * Situationally adapt a system development method to a project
 * Participate competently in a development project
